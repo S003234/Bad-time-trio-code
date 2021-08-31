@@ -1,0 +1,2 @@
+ * Sans - 1 ATK 1 DEF
+ * He is in the editor.

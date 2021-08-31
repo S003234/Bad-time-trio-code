@@ -1,0 +1,53 @@
+{
+    "box": [
+        {
+            "index": 1,
+            "indexATK": 1,
+            "startTime": 58.0,
+            "sec": 0.30000001192092898
+        },
+        {
+            "index": 2,
+            "indexATK": 1,
+            "startTime": 44.0,
+            "sec": 0.5
+        },
+        {
+            "index": 4,
+            "indexATK": 1,
+            "startTime": 94.7,
+            "sec": 0.0
+        },
+        {
+            "index": 0,
+            "indexATK": 1,
+            "startTime": 72.0,
+            "sec": 0.0
+        },
+        {
+            "index": 3,
+            "indexATK": 1,
+            "startTime": 93.9,
+            "sec": 0.0
+},
+        {
+            "index": 1,
+            "indexATK": 1,
+            "startTime": 98.0,
+            "sec": 0.0
+},
+        {
+            "index": 0,
+            "indexATK": 1,
+            "startTime": 100.0,
+            "sec": 0.0
+        },
+        {
+            "index": 1,
+            "indexATK": 1,
+            "startTime": 144.0,
+            "sec": 0.0
+
+        }
+    ]
+}

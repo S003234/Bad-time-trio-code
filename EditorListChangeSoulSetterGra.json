@@ -1,0 +1,70 @@
+{
+    "soulGravity": [
+        {
+            "indexATK": 1,
+            "index": 2,
+            "waitToBeEnabled": 44.0,
+            "force": 1000000
+        }, 
+        {
+            "indexATK": 1,
+            "index": 1,
+            "waitToBeEnabled": 132.0,
+            "force": 1000
+        }, 
+        {
+            "indexATK": 1,
+            "index": 2,
+            "waitToBeEnabled": 131.0,
+            "force": 1000
+        }, 
+        {
+            "indexATK": 1,
+            "index": 4,
+            "waitToBeEnabled": 133.0,
+            "force": 100
+        }, 
+        {
+            "indexATK": 1,
+            "index": 3,
+            "waitToBeEnabled": 134.0,
+            "force": 1000
+        }, 
+        {
+            "indexATK": 1,
+            "index": 1,
+            "waitToBeEnabled": 135.0,
+            "force": 1000
+        }, 
+        {
+            "indexATK": 1,
+            "index": 3,
+            "waitToBeEnabled": 136.0,
+            "force": 1000
+        }, 
+        {
+            "indexATK": 1,
+            "index": 2,
+            "waitToBeEnabled": 137.0,
+            "force": 1000
+        }, 
+        {
+            "indexATK": 1,
+            "index": 4,
+            "waitToBeEnabled": 138.0,
+            "force": 1000
+        }, 
+        {
+            "indexATK": 1,
+            "index": 2,
+            "waitToBeEnabled": 139.0,
+            "force": 1000
+        }, 
+        {
+            "indexATK": 1,
+            "index": 4,
+            "waitToBeEnabled": 144.0,
+            "force": 1000
+        }
+    ]
+}

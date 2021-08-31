@@ -1,0 +1,29 @@
+{
+    "cirGas": [
+        {
+            "indexATK": ,
+            "startTime": 2.0,
+            "center": {
+                "x": 2.0,
+                "y": 3.0
+            },
+            "NumObjects": 10,
+            "radius": 3.0,
+            "AddDegree": 15.0,
+            "timeSpawn": 0.10000000149011612,
+            "FollowPlayer": true,
+            "KeepFollowPlayer": false,
+            "randomDegree": false,
+            "RandomDegreeValue": [
+                0.0,
+                180.0
+            ],
+            "degreeValue": 90.0,
+            "scale": {
+                "x": 2.5,
+                "y": 4.800000190734863
+            },
+            "ColorBlaster": 0
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "teleport": [
+        {
+            "indexATK": 1,
+            "waitToBeEnabled": 98.0,
+            "teleportTime": 0.30000001192092898
+    }, 
+    {
+          "indexATK": 1,
+            "waitToBeEnabled": 100.0,
+            "teleportTime": 0.30000001192092898
+    }, 
+    {
+          "indexATK": 1,
+            "waitToBeEnabled": 102.0,
+            "teleportTime": 0.30000001192092898
+    }, 
+    {
+          "indexATK": 1,
+            "waitToBeEnabled": 104.0,
+            "teleportTime": 0.30000001192092898
+
+        }
+    ]
+}

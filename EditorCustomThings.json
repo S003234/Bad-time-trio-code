@@ -1,0 +1,13 @@
+{
+    "bossSpriteImageUrl": "https://i.ytimg.com/vi/0p_Vyf-mo-c/sddefault.jpg",
+    "bossSpriteSizeX": 400,
+    "bossSpriteSizeY": 300,
+    "boneSpriteType1ImageUrl": "",
+    "boneSpriteType1SizeX": 100,
+    "boneSpriteType1SizeY": 100,
+    "gasterSpriteImageUrl": "",
+    "gasterSpriteSizeX": 50,
+    "gasterSpriteSizeY": 50,
+    "backgroundSongUrl": "https://raw.githubusercontent.com/SnightCoder/SnightChecker/main/songs/y2meta.com%20-%20Undertale%5BAU%5D%20%7C%20TRIPLE%20THE%20THREAT%20%5BTrio%20Bad%20Time%5D%20(320%20kbps).mp3",
+    "bossVoiceUrl": ""
+}

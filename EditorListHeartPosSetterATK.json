@@ -1,0 +1,21 @@
+{
+    "heartPos": [
+        {
+            "indexATK": 1,
+            "waitToBeEnabled": 98.0,
+            "newPos": {
+                "x": 2.5,
+                "y": 0.0
+            } 
+},
+{
+
+            "indexATK": 1,
+            "waitToBeEnabled": 144.2,
+            "newPos": {
+                "x": 0.0,
+                "y": 2.0
+            }
+        }
+    ]
+}

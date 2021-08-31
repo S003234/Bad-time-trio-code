@@ -1,0 +1,29 @@
+{
+    "soul": [
+        {
+            "indexATK": 1,
+            "index": 2,
+            "waitToBeEnabled": 44.0
+        },
+        {
+            "indexATK": 1,
+            "index": 1,
+            "waitToBeEnabled": 72.0
+  },
+        {
+            "indexATK": 1,
+            "index": 2,
+            "waitToBeEnabled": 98.0
+        },
+        {
+            "indexATK": 1,
+            "index": 1,
+            "waitToBeEnabled": 99.8
+        },
+        {
+            "indexATK": 1,
+            "index": 1,
+            "waitToBeEnabled": 140.0
+        }
+    ]
+}

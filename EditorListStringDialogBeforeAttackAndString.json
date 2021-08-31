@@ -1,0 +1,16 @@
+{
+    "dialog": [
+        {
+            "numberOfDialogueBeforeAttackCome": 9,
+            "textInBox": ""
+        },
+        {
+            "numberOfDialogueBeforeAttackCome": 1,
+            "textInBox": " * Miss again..."
+        },
+        {
+            "numberOfDialogueBeforeAttackCome": 2,
+            "textInBox": " * Finish him!"
+        }
+    ]
+}
